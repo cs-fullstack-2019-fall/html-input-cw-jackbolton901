@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    border: 20px solid orange;
+
+}
+#red{
+    color: red;
+}
+div{
+    float: left;
+ padding: 10px ;
+
+}
